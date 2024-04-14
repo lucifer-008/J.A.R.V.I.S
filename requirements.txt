@@ -6,7 +6,7 @@ click==7.1.2
 decorator==4.4.2
 future==0.18.2
 geocoder==1.38.1
-idna==2.10
+idna==3.7
 jsonlib==1.6.1
 loc==0.0.2
 PyAudio==0.2.11
